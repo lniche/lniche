@@ -1,7 +1,8 @@
 ### Yoo, I'm lniche 👋
 - 🍻 _BSc in Graphic Design_
-- ⚡  Go / Python
-- ✍️ [Blogger](https://qingshan.eu.org)
+- ⌨️ Now focusing on full stack development.
+- ⚡  Go / Python / React
+- ✍️ Building [Blogger](https://qingshan.eu.org)
 - 🏃 Running / Cycling / Badminton
 - ♟ Chinese Mahjong / Landlord 
 
