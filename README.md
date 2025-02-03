@@ -4,7 +4,7 @@
 
 ### Yoo, I'm lniche 👋
 - 💻 A passionate Front-End Web Developer
-- ⚡  Go / Python / React
+- ⚡  Go / Python / Java / Vue
 - 🏃 Running / Cycling / Badminton
 - ♟ Chinese Mahjong / Landlord
 - 🌟 Nice to meet you
